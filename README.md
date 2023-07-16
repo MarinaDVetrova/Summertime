@@ -1,1 +1,3 @@
-# summertime
+# Summertime
+
+Летний марафон визуализации
